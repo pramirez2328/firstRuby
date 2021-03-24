@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+#subtitle {
+    text-align: center;
+    font-family: fantasy;
+    background-color: aqua;
+}
